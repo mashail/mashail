@@ -1,16 +1,14 @@
-## Hi there 👋
+## Assalamu Alaikum 👋
 
-<!--
-**mashail/mashail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I am **Mashail Almuzaini** enthusiast and fit engineer who not only enoy moving her fingers on the keyboard while programming but also move her body with weights in they gym 🏋🏼
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on k8s and DevOps tools and mostly program with golang
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on any golang project.
+- 🤔 I’m looking for help with how building consultation business.
+- 💬 Ask me about golang, coooking and fitnes
+- 📫 How to reach me: mashail.dh@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I can do 25 push ups in a row but I can only do 3 pull ups in a row.
+
