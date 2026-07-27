@@ -1,13 +1,15 @@
-## Assalamu Alaikum 👋
+# Hi, I'm Mashail Almuzaini 👋
 
-I am Mashail Almuzaini, an engineering enthusiast and fit engineer who enjoys moving her fingers on the keyboard while engineering as much as she does when she exercises in the gym. 🏋🏼 
+Senior software engineer at HudHud Maps — a local Saudi maps and navigation
+product built for the region. I write Go, live in Kubernetes, and work on the
+data and platform infrastructure that keeps search and navigation running.
+I care about lifting heavy things — both in the gym and in production. 🏋🏼
 
-- 🔭 I’m currently working on k8s and DevOps tools and FinTech engineering consultation.
-- 🌱 I’m currently learning how to be stoic.
-- 👯 I’m looking to collaborate on any GoLang project.
-- 🤔 I’m looking for help with building consultation business.
-- 💬 Ask me about GoLang, cooking and fitness.
-- 📫 How to reach me: mashail.dh@gmail.com.
-- 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I can do 25 push-ups in a row but I can only do 3 pull-ups in a row.
+* 🛠️ Stack: Go, Kubernetes, Kafka/Redpanda, ClickHouse, PostgreSQL, OpenSearch
+* 🌱 Currently learning how to be stoic — distributed systems help with the practice
+* 👯 Looking to collaborate on Go and data infrastructure projects
+* 💬 Ask me about Go, event streaming, Arabic search relevance, cooking, and fitness
+* 📫 Reach me: [mashail.dh@gmail.com](mailto:mashail.dh@gmail.com)
+* 😄 Pronouns: She/Her
+* ⚡ Fun fact: I can do 25 push-ups in a row but only 5 pull-ups in a row
 
